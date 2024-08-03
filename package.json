@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/optio-harum-deserunt-distinctio",
-  "version": "5.8.82",
+  "version": "5.8.83",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -494,5 +494,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/optio-harum-deserunt-distinctio/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
